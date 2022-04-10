@@ -5,7 +5,6 @@ Site feito por [João Pedro Monção](https://github.com/jpmoncao), com HTML e C
 
 ## 🚀Demo
 
-##
 <a href="https://jpmoncao.github.io/projeto-android/" target="_blank">Execute aqui 🚀</a>
 ![Projeto Android](https://i.imgur.com/PfGeiV3.png)
 
